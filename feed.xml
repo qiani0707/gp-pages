@@ -3,7 +3,7 @@
     <title>whitehole.design</title>
     <link href="https://qiani0707.github.io/gp-pages/feed.xml" rel="self" />
     <link href="https://qiani0707.github.io/gp-pages" />
-    <updated>2021-02-23T19:51:08+08:00</updated>
+    <updated>2021-02-23T20:00:24+08:00</updated>
     <author>
         <name>whitehole</name>
     </author>
@@ -18,10 +18,11 @@
         <id>https://qiani0707.github.io/gp-pages/ou-shi-man-mian-mo-bao-zhuang.html</id>
             <category term="包装"/>
 
-        <updated>2021-02-23T19:51:08+08:00</updated>
+        <updated>2021-02-23T19:57:48+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://qiani0707.github.io/gp-pages/media/posts/4/4-Di-Se-Zu-He.jpg" alt="" />
                 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://qiani0707.github.io/gp-pages/media/posts/4/gallery/4-Ge-Zu-He.jpg" data-size="3200x1923"><img loading="lazy" src="https://qiani0707.github.io/gp-pages/media/posts/4/gallery/4-Ge-Zu-He-thumbnail.jpg" alt="" width="768" height="462"></a></figure>
 <figure class="gallery__item"><a href="https://qiani0707.github.io/gp-pages/media/posts/4/gallery/05.jpg" data-size="3200x2098"><img loading="lazy" src="https://qiani0707.github.io/gp-pages/media/posts/4/gallery/05-thumbnail.jpg" alt="" width="768" height="504"></a></figure>
@@ -38,13 +39,15 @@
         <id>https://qiani0707.github.io/gp-pages/xing-ba-ke-pei-kuai-dong-hua.html</id>
             <category term="动画"/>
 
-        <updated>2021-02-23T19:48:37+08:00</updated>
+        <updated>2021-02-23T20:00:24+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://qiani0707.github.io/gp-pages/media/posts/3/316d5a860c7a17990b5d7f369904da3.jpg" alt="" />
-                <figure class="post__video"><video loading="lazy" width="717" height="717" controls="controls" data-mce-fragment="1">
-<source src="http://vfx.mtime.cn/Video/2019/03/19/mp4/190319222227698228.mp4" type="video/mp4" /></video></figure>
+                <figure class="post__video">
+<figure class="post__video"><video loading="lazy" width="713" height="713" controls="controls">
+<source src="https://vod-progressive.akamaized.net/exp=1614095989~acl=%2A%2F623960082.mp4%2A~hmac=efd7bb7c5475bdf2686a242e907a271086563a45f4f75e1215af6b17d8ff4191/vimeo-prod-skyfire-std-us/01/2673/7/188365455/623960082.mp4?filename=Emoji+Saver+-+Drama.mp4" type="video/mp4" /></video></figure>
+</figure>
             ]]>
         </content>
     </entry>
