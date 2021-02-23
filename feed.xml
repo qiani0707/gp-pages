@@ -3,7 +3,7 @@
     <title>whitehole.design</title>
     <link href="https://qiani0707.github.io/gp-pages/feed.xml" rel="self" />
     <link href="https://qiani0707.github.io/gp-pages" />
-    <updated>2021-02-23T17:47:02+08:00</updated>
+    <updated>2021-02-23T19:23:32+08:00</updated>
     <author>
         <name>whitehole</name>
     </author>
@@ -18,11 +18,12 @@
         <id>https://qiani0707.github.io/gp-pages/teng-xun-niao-ren-chang-tu.html</id>
             <category term="长图"/>
 
-        <updated>2021-02-23T17:41:28+08:00</updated>
+        <updated>2021-02-23T19:23:32+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-columns="1">
+                    <img src="https://qiani0707.github.io/gp-pages/media/posts/2/WechatIMG5350_06.jpg" alt="" />
+                <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="1">
 <figure class="gallery__item"><a href="https://qiani0707.github.io/gp-pages/media/posts/2/gallery/WechatIMG5350_01.jpg" data-size="1080x2362"><img loading="lazy" src="https://qiani0707.github.io/gp-pages/media/posts/2/gallery/WechatIMG5350_01-thumbnail.jpg" alt="" width="768" height="1680"></a></figure>
 <figure class="gallery__item"><a href="https://qiani0707.github.io/gp-pages/media/posts/2/gallery/WechatIMG5350_02.jpg" data-size="1080x2362"><img loading="lazy" src="https://qiani0707.github.io/gp-pages/media/posts/2/gallery/WechatIMG5350_02-thumbnail.jpg" alt="" width="768" height="1680"></a></figure>
 <figure class="gallery__item"><a href="https://qiani0707.github.io/gp-pages/media/posts/2/gallery/WechatIMG5350_03.jpg" data-size="1080x2363"><img loading="lazy" src="https://qiani0707.github.io/gp-pages/media/posts/2/gallery/WechatIMG5350_03-thumbnail.jpg" alt="" width="768" height="1680"></a></figure>
